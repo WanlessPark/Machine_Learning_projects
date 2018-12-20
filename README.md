@@ -1,1 +1,1 @@
-# Machine_Learning_projects
+# This is my Capstone project, where I created a classifier/predictor of Beatles lyrics author. The repository contains a Power Point  presentation, csv files with web scraped Beatles lyrics, Rolling Stones lyrics and also Beatles songs author, 3 Jupyter notebooks with web scrape code and 3 Jupyter notebooks with Vectorizer and various Statistical models.
